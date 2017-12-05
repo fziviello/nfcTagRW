@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NFC TAG RW</string>
+    <string name="message_write_error">Errore durante la scrittura su NFC</string>
+    <string name="message_write_success">Scrittura Terminata</string>
+    <string name="message_write_progress">Scrittura in corso...</string>
+    <string name="message_tag_detected">NFC Rilevato</string>
+    <string name="message_read_tag">LETTURA</string>
+    <string name="message_write_tag">SCRITTURA</string>
+    <string name="message_tap_tag">Avvicina NFC al tuo Device</string>
+    <string name="hint_message">Messaggio</string>
+</resources>
